@@ -4,7 +4,7 @@ Chat between Server and Client with TCP Protocol
 ## TCP Client-Server Communication Project
 
 ## Overview
-This project demonstrates a simple TCP communication between a server and multiple clients using Python. The server listens for incoming connections and can handle multiple clients simultaneously using threads, while each client can send messages to the server and receive responses.
+This project demonstrates a simple TCP communication between a server and one clients using Python. The server listens for incoming connections and can handle multiple clients simultaneously using threads, while each client can send messages to the server and receive responses.
 
 ## Files
 - **server.py**: Implements the server-side application that accepts connections from clients, receives messages, and sends responses.
