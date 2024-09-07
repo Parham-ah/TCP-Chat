@@ -1,5 +1,5 @@
 # TCP-Chat
-TCP Chat between Server and Client with python
+Chat between Server and Client with TCP Protocol 
 
 ## TCP Client-Server Communication Project
 
